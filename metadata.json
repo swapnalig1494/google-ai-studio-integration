@@ -1,0 +1,7 @@
+{
+  "name": "Copy of KisanSahay AI - Farmer's Disease Detector",
+  "description": "A robust, easy-to-use mobile application for rural farmers to identify plant diseases and get treatment advice using AI vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
